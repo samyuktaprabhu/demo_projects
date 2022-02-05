@@ -1,0 +1,5 @@
+Installation:
+1. nodejs
+2. Angular10
+3. Python
+4. Django REST Framework
